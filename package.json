@@ -1,7 +1,6 @@
 {
-    "name": "casper",
+    "name": "digi-casper",
     "description": "A clean, minimal default theme for the Ghost publishing platform",
-    "demo": "https://demo.ghost.io",
     "version": "5.1.4",
     "engines": {
         "ghost": ">=5.0.0"
